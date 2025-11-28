@@ -1,1 +1,1 @@
-This is sample file for README
+This is a simple README file.
